@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hiwson
-- 👀 I’m interested in computer programming,web design and graphics design
+- 👋 Hi, I’m @willy
+- 👀 My interest is in computer programming,web design and graphics design
 - 🌱 I’m currently learning computer programming
 - 📫 You can reach me through the email:madreskimani001@gmail.com
 - 😄 Pronouns:He/Him
